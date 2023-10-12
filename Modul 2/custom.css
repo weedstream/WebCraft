@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(255, 255, 255);
+  padding: 0;
+  margin: 0;
+  font-family: "Fira Code", serif;
+}
+.nameProfile {
+  font-size: 48px;
+  color: rgb(4, 59, 16);
+  font-weight: 600;
+}
+.titleProfile {
+  font-size: 28px;
+  color: rgb(0, 0, 0);
+  font-weight: 400;
+}
+ul.workEx li{
+  font-size: 18px;
+  padding: 10px 0;
+}
+strong {
+  color: rgb(255, 0, 0);
+}
+span.dateEx {
+  color: rgb(15, 122, 87);
+}
+span.subWorkEx {
+  font-size: 16px;
+  color: rgb(66, 66, 66);
+  font-weight: 400;
+}

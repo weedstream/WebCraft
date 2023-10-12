@@ -1,0 +1,45 @@
+body {
+    background-color: purple;
+    /* background-image: url(logo-landscape.webp); */
+}
+h4 {
+    color: #e1ff00;
+}
+h2.header {
+    color: green;
+}
+.header {
+    font-size: 50px;
+}
+.paragraph {
+    font-size: 20px;
+    color: pink;
+}
+p {
+    color: black;
+    font-weight: 400;
+    font-size: 50px;
+}
+p strong {
+    color: red;
+}
+p strong.bold {
+    color: white;
+}
+.uppercase {
+    /* text-transform: uppercase; */
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px red;
+    color: white;
+}
+.lowercase {
+    text-transform: lowercase;
+}
+ul li {
+    color: white;
+    font-size: 30px;
+}
+ul h5 {
+    font-size: 30px;
+    color: blue;
+}
